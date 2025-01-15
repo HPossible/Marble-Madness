@@ -1,4 +1,6 @@
-Marble Madness
+# Marble Madness 
+
+---
 
 This project is an individual project assignment for the class CS32: Introduction to Computer Science II
 
@@ -8,7 +10,7 @@ On top of the class requirements, I added some more functionalities and develope
 
 The game does have an audio component, and it supports DIY levels.
 
----------------------------------------------
+---
 
 All the source code of the game is stored in the folder "Source Code".
 
