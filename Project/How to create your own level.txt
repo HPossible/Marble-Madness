@@ -1,0 +1,12 @@
+All the levels are stored as .txt files. You can find them in the "Assets" folder.
+
+To create your own level, simply create another .txt files with the game arrangement you desired and put it into "Assets".
+
+If you open a level file and compare it to the actual game, you can map each symbol to an item in the game.
+
+Notes:
+1. The width and length of each level is fixed; don't create a map that's too large or too small
+2. The levels starts at 00 and goes up sequentially.
+
+
+HAVE FUN DESIGNING !!!!!!

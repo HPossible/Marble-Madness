@@ -1,0 +1,15 @@
+###############
+#@************#
+#*************#
+#aaaaaaaaaaaaa#
+#aaaaaaaaaaaaa#
+#eeea       ###
+#eeea       #x#
+#rrra  b b b o#
+#rrra         #
+#aaaa  b b b  #
+#####aaaaaa   #
+#111#######   #
+#    11111#   #
+#         o   #
+###############

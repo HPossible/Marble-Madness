@@ -1,0 +1,15 @@
+###############
+#@x * bbeb    #
+############# #
+#bb * o *bb bb#
+# bbbb  bbb bo#
+#  b*b b  bbob#
+#*#*bb bb b  b#
+# #obbbbb bbbb#
+# b  b    bbob#
+# # #bbbbbbb*b#
+# b  bb*****b*#
+# #   bb obbbo#
+#ob## b b   #*#
+#*b*ob   b hbo#
+###############
