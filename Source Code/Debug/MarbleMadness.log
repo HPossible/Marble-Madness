@@ -1,0 +1,43 @@
+﻿  Actor.cpp
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.h(134,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Actor.cpp')
+  
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.h(134,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Actor.cpp')
+  
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(53,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(53,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(60,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(60,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(104,20): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(112,21): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(124,21): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(168,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(168,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(177,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(177,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(201,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(201,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(210,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(210,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(246,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(246,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(273,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(273,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(419,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(419,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(442,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(442,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(476,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(476,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(494,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(494,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(553,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(553,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(571,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(571,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(574,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(574,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(575,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Desktop\CS32 Project3\MarbleMadness\Actor.cpp(575,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MarbleMadness.vcxproj -> D:\Desktop\CS32 Project3\Debug\MarbleMadness.exe
