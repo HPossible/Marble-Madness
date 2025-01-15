@@ -4,37 +4,37 @@ As a player, you have to collect all the (blue) crystals and move to the exit to
 
 Player Status:
 On the top of the screen, there will be a row of data showing your game status:
-"Score":		shows the total points you have. collecting crystals / goodies, killing robots, winning quickly will all get you points
-"Level":		the current level that you're on
-"Lives":		decrement when "Health" becomes 0. game end when no more lives
-"Health":		your health. decrease 10% upon hit. starting off 100% at each level
-"Ammo":		number of bullets you have. starting off 20 at each level
-"Bonus":		the faster you finish a level, the more bonus points you get
+"Score":        shows the total points you have. collecting crystals / goodies, killing robots, winning quickly will all get you points
+"Level":        the current level that you're on
+"Lives":        decrement when "Health" becomes 0. game end when no more lives
+"Health":       your health. decrease 10% upon hit. starting off 100% at each level
+"Ammo":         number of bullets you have. starting off 20 at each level
+"Bonus":        the faster you finish a level, the more bonus points you get
 
 
 Controls:
-WASD / Arrow:	move around
-Space:		shoot bullets
-ESC:			restart current level
-Q:			quit
+WASD / Arrow:   move around
+Space:          shoot bullets
+ESC:            restart current level
+Q:              quit
 
-N:			jump to the next level
-M:			restart current level without cost
-F:			freezes time; time only flows when you move	(to shoot in this mode, hold space)
-R:			unfreeze
+N:              jump to the next level
+M:              restart current level without cost
+F:              freezes time; time only flows when you move	(to shoot in this mode, hold space)
+R:              unfreeze
 
 
 Items in game:
-Player			the human icon
-Rage Bot			the white robot. moves back and forth, shoot bullet at player. health: 50%
-Thief Bot			the green robot. wanders around. might steal goodies (drops upon death). health: 30%
-Mean Thief Bot		same as thief bot excepts they will attack player and has health of 40%
-Factory			spawns thief bot if few are near by. one factory will only spawn the same type of thief bot. cannot be destroyed
-Marbles			can be pushed by player, can be attacked. health: 50%
-Pit				hinders movement. seems it need to be filled with something...
-Crystals			after collecting all of them, the exit will appear
-Heart			increase lives by 1
-Aid packet		restore health to 100%
+Player          the human icon
+Rage Bot        the white robot. moves back and forth, shoot bullet at player. health: 50%
+Thief Bot       the green robot. wanders around. might steal goodies (drops upon death). health: 30%
+Mean Thief Bot  same as thief bot excepts they will attack player and has health of 40%
+Factory         spawns thief bot if few are near by. one factory will only spawn the same type of thief bot. cannot be destroyed
+Marbles         can be pushed by player, can be attacked. health: 50%
+Pit             hinders movement. seems it need to be filled with something...
+Crystals        after collecting all of them, the exit will appear
+Heart           increase lives by 1
+Aid packet      restore health to 100%
 
 
 Some more rules & tips:
