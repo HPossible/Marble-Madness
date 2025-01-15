@@ -1,7 +1,5 @@
 # Marble Madness 
 
----
-
 This project is an individual project assignment for the class CS32: Introduction to Computer Science II
 
 The project is a puzzle-solving video game.
